@@ -44,15 +44,11 @@ https://fdutz.glideapp.io
 ## 結論
 本研究ではGPSユニットで収集したデータをもとに、QGISでヒートマッを作成しました。冒頭で述べた通りサッカー界でもデータ分析の導入が積極的に行われているのが実態です。ヒートマップという座標のみを活用した極一部のデータではあるが、青山学院大学体育会サッカー部に還元させていきたい。また、Glideで作成したアプリで情報を発信していく。現状として４つのタブを使っているがこれ以上多くなると少し情報が渋滞する恐れがあるため本当に必要な情報発信アプリとして見つめ直しが必要だ。今回は、ゼミ論としてとある一選手のみでヒートマップ作成を行ったのでチーム全体のマップを作成していく。
 ## 参考文献
-[Qiita]
-(https://qiita.com/Yfuruchin/items/5aa60ad983b3b58a7ac1#qgisにとりこむ)
-:サッカーのヒートマップをQGISで作ってみるのページ
+[Qiita](https://qiita.com/Yfuruchin/items/5aa60ad983b3b58a7ac1#qgisにとりこむ):サッカーのヒートマップをQGISで作ってみるのページ
 
 [QGIS Tutorials and Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.qgistutorials.com%2Fen%2Fdocs%2F3%2Fcreating_heatmaps.html%3Ffbclid%3DIwAR2QrbKK2Pn7yLgsdZ4wJJ_yZKthVK9DTbER1nUJrG29hLFOR8nBRuLx-DI&h=AT1g8ZzKxPwt4PIEum0LHc7z_5T5j4wdMm0Nnp5tAAXIx3r-i1TGgfnR2XD7saes1kHM1D2ibjif5RLs470dMqQAl8ReLKbut80SHyTMYQWUKzzQVTGfBaj1PbFXUsz9fTgjEa9xuYo):Creating Heatmaps (QGIS3)のページ
 
-[synclogue navi]
-(https://synclogue-navi.com/category/gimp/)
-:GIMP の使い方のページ
+[synclogue navi](https://synclogue-navi.com/category/gimp/):GIMP の使い方のページ
 
 ## 謝辞
 本研究を進めるにあたり青山学院大学古橋研究室の古橋教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
