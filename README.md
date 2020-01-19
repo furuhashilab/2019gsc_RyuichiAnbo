@@ -4,19 +4,19 @@
 地球社会共生学部 1A117007 安保龍一/Ryuichi Anbo
 
 # 資料
-・ゼミ論中間報告　報告書
+-ゼミ論中間報告　報告書
 
 https://medium.com/furuhashilab/12-20-%E3%82%BC%E3%83%9F%E8%AB%96%E4%B8%AD%E9%96%93%E5%A0%B1%E5%91%8A-ec9fd72af741?source=friends_link&sk=75de87c6009de1261cd6251de238a594
 
-・ゼミ論中間報告　プレゼン用資料
+-ゼミ論中間報告　プレゼン用資料
 
 https://docs.google.com/presentation/d/1OoMceupmSV5lmiR66yzRAXN-5ewf4eF814-CYeI9b1w/edit?usp=sharing
 
-・ゼミ論最終報告　提出用資料
+-ゼミ論最終報告　提出用資料
 
 https://docs.google.com/document/d/1qflv5P9f4mjFx2pE4thZjV8PdTn9mnQMXT3bqYnNFck/edit?usp=sharing
 
-・ヒートマップ
+-ヒートマップ
 
 https://github.com/furuhashilab/2019gsc_RyuichiAnbo/blob/master/data/temp/スクリーンショット%202020-01-18%2023.07.24.png
 
