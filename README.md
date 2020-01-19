@@ -5,25 +5,18 @@
 地球社会共生学部 1A117007 安保龍一/Ryuichi Anbo
 
 # 資料
-- ゼミ論中間報告　報告書
+- [ゼミ論中間報告　報告書](https://medium.com/furuhashilab/12-20-%E3%82%BC%E3%83%9F%E8%AB%96%E4%B8%AD%E9%96%93%E5%A0%B1%E5%91%8A-ec9fd72af741?source=friends_link&sk=75de87c6009de1261cd6251de238a594)
 
-https://medium.com/furuhashilab/12-20-%E3%82%BC%E3%83%9F%E8%AB%96%E4%B8%AD%E9%96%93%E5%A0%B1%E5%91%8A-ec9fd72af741?source=friends_link&sk=75de87c6009de1261cd6251de238a594
 
-- ゼミ論中間報告　プレゼン用資料
+- [ゼミ論中間報告　プレゼン用資料](https://docs.google.com/presentation/d/1OoMceupmSV5lmiR66yzRAXN-5ewf4eF814-CYeI9b1w/edit?usp=sharing)
 
-https://docs.google.com/presentation/d/1OoMceupmSV5lmiR66yzRAXN-5ewf4eF814-CYeI9b1w/edit?usp=sharing
+- [ゼミ論最終報告　提出用資料](https://docs.google.com/document/d/1qflv5P9f4mjFx2pE4thZjV8PdTn9mnQMXT3bqYnNFck/edit?usp=sharing)
 
-- ゼミ論最終報告　提出用資料
+- [ヒートマップ](https://github.com/furuhashilab/2019gsc_RyuichiAnbo/blob/master/data/temp/スクリーンショット%202020-01-18%2023.07.24.png)
 
-https://docs.google.com/document/d/1qflv5P9f4mjFx2pE4thZjV8PdTn9mnQMXT3bqYnNFck/edit?usp=sharing
+- [アプリ](https://fdutz.glideapp.io)
 
-- ヒートマップ
-
-https://github.com/furuhashilab/2019gsc_RyuichiAnbo/blob/master/data/temp/スクリーンショット%202020-01-18%2023.07.24.png
-
-- アプリ
-
-https://fdutz.glideapp.io
+--------------
 ### 本文
 ## はじめに
 近年の技術の進歩や発展は単に我々の生活の向上をさせただけでなく、様々な分野でその効力を発揮している。その一つともされるのがスポーツ分野である。特にサッカーでは多くの国、リーグ、チームでデータ化が浸透している。これまでは客観的に試合を見てその中でのプレーからでしか技術や戦術の向上を図ることができなかったが、主にGPSを用いたデータ分析により今までとは全く違う観点で試合を分析できるようになった。本研究では、このデータによって分析するハウツーを青山学院大学体育会サッカー部にも取り入れる事を目的とする。GPSデータとはいっても様々なデータを入手する事が可能なため、今回はX値Y値(座標)と時間軸をリンクさせてQGISも用いてヒートマップの作成とする。大学サッカーは前期後期を通じて22試合が行われる。ヒートマップとして情報を収集するのは、より高いレベルである関東2部大学サッカーリーグに限定して行う。また、ヒートマップの展開先としてはGlideで作成したアプリを青学サッカー部員限定で公開する。その他にも青学サッカー部にとって優位性のある情報発信や、スケジュール管理などをアプリを通して行使していく。あくまでも公開対象はサッカー部関係者とする。
