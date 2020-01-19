@@ -48,9 +48,7 @@ https://fdutz.glideapp.io
 (https://qiita.com/Yfuruchin/items/5aa60ad983b3b58a7ac1#qgisにとりこむ)
 :サッカーのヒートマップをQGISで作ってみるのページ
 
-[QGIS Tutorials and Tips]
-(https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.qgistutorials.com%2Fen%2Fdocs%2F3%2Fcreating_heatmaps.html%3Ffbclid%3DIwAR2QrbKK2Pn7yLgsdZ4wJJ_yZKthVK9DTbER1nUJrG29hLFOR8nBRuLx-DI&h=AT1g8ZzKxPwt4PIEum0LHc7z_5T5j4wdMm0Nnp5tAAXIx3r-i1TGgfnR2XD7saes1kHM1D2ibjif5RLs470dMqQAl8ReLKbut80SHyTMYQWUKzzQVTGfBaj1PbFXUsz9fTgjEa9xuYo)
-:Creating Heatmaps (QGIS3)のページ
+[QGIS Tutorials and Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.qgistutorials.com%2Fen%2Fdocs%2F3%2Fcreating_heatmaps.html%3Ffbclid%3DIwAR2QrbKK2Pn7yLgsdZ4wJJ_yZKthVK9DTbER1nUJrG29hLFOR8nBRuLx-DI&h=AT1g8ZzKxPwt4PIEum0LHc7z_5T5j4wdMm0Nnp5tAAXIx3r-i1TGgfnR2XD7saes1kHM1D2ibjif5RLs470dMqQAl8ReLKbut80SHyTMYQWUKzzQVTGfBaj1PbFXUsz9fTgjEa9xuYo):Creating Heatmaps (QGIS3)のページ
 
 [synclogue navi]
 (https://synclogue-navi.com/category/gimp/)
