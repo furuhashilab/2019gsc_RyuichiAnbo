@@ -18,6 +18,9 @@
 - [アプリ](https://fdutz.glideapp.io)
 
 - [ゼミ論最終報告　プレゼン用資料](https://docs.google.com/presentation/d/1hx8v2ZQERkS5ezE8MNQh7KyUz56WjiyeuxRrcIA_6uw/edit?usp=sharing)
+
+- [参考文献](https://docs.google.com/spreadsheets/d/1tF85AooQjIDpIcdRMANfpsv9Awpu4CfdAofZbnkmW3k/edit?usp=sharing)
+
 --------------
 ### 本文
 ## 目次
